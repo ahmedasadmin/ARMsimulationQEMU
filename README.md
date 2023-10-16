@@ -1,0 +1,2 @@
+--This assembly program run on qemu emulator 
+--it just sum elements of array  
